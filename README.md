@@ -1,6 +1,6 @@
 # CookBook-Bite-s-Project
 
-Welcome to my CookBook bite's project website! This platform showcases my journey and skills.
+Welcome to my CookBook Bite's website! This platform showcases my journey and skills.
 
 
 ## Authors
